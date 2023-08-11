@@ -1,0 +1,422 @@
+[
+    {
+        "title": "Disco Elysium - The Final Cut",
+        "metacriticLink": "/game/pc/disco-elysium-the-final-cut",
+        "normalPrice": "39.99",
+        "steamAppID": "632470",
+        "thumb": "https://cdn.cloudflare.steamstatic.com/steam/apps/632470/capsule_sm_120.jpg?t=1681291304"
+    },
+    {
+        "title": "Half-Life 2",
+        "metacriticLink": "/game/pc/half-life-2",
+        "normalPrice": "9.99",
+        "steamAppID": "220",
+        "thumb": "https://cdn.cloudflare.steamstatic.com/steam/apps/220/capsule_sm_120.jpg?t=1666823596"
+    },
+    {
+        "title": "Half-Life",
+        "metacriticLink": "/game/pc/half-life",
+        "normalPrice": "9.99",
+        "steamAppID": "70",
+        "thumb": "https://cdn.cloudflare.steamstatic.com/steam/apps/70/capsule_sm_120.jpg?t=1683302000"
+    },
+    {
+        "title": "Portal 2",
+        "metacriticLink": "/game/pc/portal-2",
+        "normalPrice": "9.99",
+        "steamAppID": "620",
+        "thumb": "https://cdn.cloudflare.steamstatic.com/steam/apps/620/capsule_sm_120.jpg?t=1683129624"
+    },
+    {
+        "title": "Persona 5 Royal",
+        "metacriticLink": "/game/pc/persona-5-royal",
+        "normalPrice": "59.99",
+        "steamAppID": "1687950",
+        "thumb": "https://cdn.cloudflare.steamstatic.com/steam/apps/1687950/capsule_sm_120.jpg?t=1688115070"
+    },
+    {
+        "title": "Sid Meier's Civilization IV",
+        "metacriticLink": "/game/pc/sid-meiers-civilization-iv",
+        "normalPrice": "19.99",
+        "steamAppID": "3900",
+        "thumb": "https://cdn.cloudflare.steamstatic.com/steam/apps/3900/capsule_sm_120.jpg?t=1573063101"
+    },
+    {
+        "title": "QUAKE",
+        "metacriticLink": "/game/pc/quake",
+        "normalPrice": "9.99",
+        "steamAppID": "2310",
+        "thumb": "https://cdn.cloudflare.steamstatic.com/steam/apps/2310/capsule_sm_120.jpg?t=1660240704"
+    },
+    {
+        "title": "BioShock Infinite",
+        "metacriticLink": "/game/pc/bioshock-infinite",
+        "normalPrice": "29.99",
+        "steamAppID": "8870",
+        "thumb": "https://cdn.cloudflare.steamstatic.com/steam/apps/8870/capsule_sm_120.jpg?t=1602794480"
+    },
+    {
+        "title": "Divinity: Original Sin - Enhanced Edition",
+        "metacriticLink": "/game/pc/divinity-original-sin-enhanced-edition",
+        "normalPrice": "39.99",
+        "steamAppID": "373420",
+        "thumb": "https://cdn.cloudflare.steamstatic.com/steam/apps/373420/capsule_sm_120.jpg?t=1665155407"
+    },
+    {
+        "title": "ELDEN RING",
+        "metacriticLink": "/game/pc/elden-ring",
+        "normalPrice": "59.99",
+        "steamAppID": "1245620",
+        "thumb": "https://cdn.cloudflare.steamstatic.com/steam/apps/1245620/capsule_sm_120.jpg?t=1683618443"
+    },
+    {
+        "title": "Star Wars: Knights of the Old Republic",
+        "metacriticLink": "/game/pc/star-wars-knights-of-the-old-republic",
+        "normalPrice": "9.99",
+        "steamAppID": "32370",
+        "thumb": "https://cdn.cloudflare.steamstatic.com/steam/apps/32370/capsule_sm_120.jpg?t=1681144833"
+    },
+    {
+        "title": "Company of Heroes",
+        "metacriticLink": "/game/pc/company-of-heroes",
+        "normalPrice": "19.99",
+        "steamAppID": "4560",
+        "thumb": "https://cdn.cloudflare.steamstatic.com/steam/apps/228200/capsule_sm_120.jpg?t=1667816914"
+    },
+    {
+        "title": "The Witcher 3: Wild Hunt",
+        "metacriticLink": "/game/pc/the-witcher-3-wild-hunt",
+        "normalPrice": "39.99",
+        "steamAppID": "292030",
+        "thumb": "https://cdn.cloudflare.steamstatic.com/steam/apps/292030/capsule_sm_120.jpg?t=1687959506"
+    },
+    {
+        "title": "Beat Saber",
+        "metacriticLink": "/game/pc/beat-saber",
+        "normalPrice": "29.99",
+        "steamAppID": "620980",
+        "thumb": "https://cdn.cloudflare.steamstatic.com/steam/apps/620980/capsule_sm_120.jpg?t=1688089806"
+    },
+    {
+        "title": "Half-Life: Alyx",
+        "metacriticLink": "/game/pc/half-life-alyx",
+        "normalPrice": "59.99",
+        "steamAppID": "546560",
+        "thumb": "https://cdn.cloudflare.steamstatic.com/steam/apps/546560/capsule_sm_120.jpg?t=1673391297"
+    },
+    {
+        "title": "Red Dead Redemption 2",
+        "metacriticLink": "/game/pc/red-dead-redemption-2",
+        "normalPrice": "59.99",
+        "steamAppID": "1174180",
+        "thumb": "https://cdn.cloudflare.steamstatic.com/steam/apps/1174180/capsule_sm_120.jpg?t=1671485009"
+    },
+    {
+        "title": "Hades",
+        "metacriticLink": "/game/pc/hades",
+        "normalPrice": "24.99",
+        "steamAppID": "1145360",
+        "thumb": "https://cdn.cloudflare.steamstatic.com/steam/apps/1145360/capsule_sm_120.jpg?t=1680293801"
+    },
+    {
+        "title": "Tetris Effect: Connected",
+        "metacriticLink": "/game/pc/tetris-effect-connected",
+        "normalPrice": "39.99",
+        "steamAppID": "1003590",
+        "thumb": "https://cdn.cloudflare.steamstatic.com/steam/apps/1003590/capsule_sm_120.jpg?t=1683245216"
+    },
+    {
+        "title": "God of War",
+        "metacriticLink": "/game/pc/god-of-war",
+        "normalPrice": "49.99",
+        "steamAppID": "1593500",
+        "thumb": "https://cdn.cloudflare.steamstatic.com/steam/apps/1593500/capsule_sm_120.jpg?t=1650554420"
+    },
+    {
+        "title": "Dwarf Fortress",
+        "metacriticLink": "/game/pc/dwarf-fortress",
+        "normalPrice": "29.99",
+        "steamAppID": "975370",
+        "thumb": "https://cdn.cloudflare.steamstatic.com/steam/apps/975370/capsule_sm_120.jpg?t=1680806717"
+    },
+    {
+        "title": "Tom Clancy's Splinter Cell Chaos Theory",
+        "metacriticLink": "/game/pc/tom-clancys-splinter-cell-chaos-theory",
+        "normalPrice": "9.99",
+        "steamAppID": "13570",
+        "thumb": "https://cdn.cloudflare.steamstatic.com/steam/apps/13570/capsule_sm_120.jpg?t=1680013933"
+    },
+    {
+        "title": "System Shock 2",
+        "metacriticLink": "/game/pc/system-shock-2",
+        "normalPrice": "9.99",
+        "steamAppID": "238210",
+        "thumb": "https://cdn.cloudflare.steamstatic.com/steam/apps/238210/capsule_sm_120.jpg?t=1645843384"
+    },
+    {
+        "title": "Undertale",
+        "metacriticLink": "/game/pc/undertale",
+        "normalPrice": "9.99",
+        "steamAppID": "391540",
+        "thumb": "https://cdn.cloudflare.steamstatic.com/steam/apps/391540/capsule_sm_120.jpg?t=1579096091"
+    },
+    {
+        "title": "Okami HD",
+        "metacriticLink": "/game/pc/okami-hd",
+        "normalPrice": "19.99",
+        "steamAppID": "587620",
+        "thumb": "https://cdn.cloudflare.steamstatic.com/steam/apps/587620/capsule_sm_120.jpg?t=1643674210"
+    },
+    {
+        "title": "Resident Evil 4",
+        "metacriticLink": "/game/pc/resident-evil-4",
+        "normalPrice": "59.99",
+        "steamAppID": "2050650",
+        "thumb": "https://cdn.cloudflare.steamstatic.com/steam/apps/2050650/capsule_sm_120.jpg?t=1687479023"
+    },
+    {
+        "title": "DAVE THE DIVER",
+        "metacriticLink": "/game/pc/dave-the-diver",
+        "normalPrice": "19.99",
+        "steamAppID": "1868140",
+        "thumb": "https://cdn.cloudflare.steamstatic.com/steam/apps/1868140/capsule_sm_120.jpg?t=1688092032"
+    },
+    {
+        "title": "Street Fighter 6",
+        "metacriticLink": "/game/pc/street-fighter-6",
+        "normalPrice": "59.99",
+        "steamAppID": "1364780",
+        "thumb": "https://cdn.cloudflare.steamstatic.com/steam/apps/1364780/capsule_sm_120.jpg?t=1686291121"
+    },
+    {
+        "title": "Star Wars Jedi Knight: Dark Forces II",
+        "metacriticLink": "/game/pc/star-wars-jedi-knight-dark-forces-ii",
+        "normalPrice": "5.99",
+        "steamAppID": "32380",
+        "thumb": "https://cdn.cloudflare.steamstatic.com/steam/apps/32380/capsule_sm_120.jpg?t=1586466719"
+    },
+    {
+        "title": "Fallout 3",
+        "metacriticLink": "/game/pc/fallout-3",
+        "normalPrice": "9.99",
+        "steamAppID": "22300",
+        "thumb": "https://cdn.cloudflare.steamstatic.com/steam/apps/22300/capsule_sm_120.jpg?t=1665072658"
+    },
+    {
+        "title": "Call of Duty",
+        "metacriticLink": "/game/pc/call-of-duty",
+        "normalPrice": "19.99",
+        "steamAppID": "2620",
+        "thumb": "https://cdn.cloudflare.steamstatic.com/steam/apps/2620/capsule_sm_120.jpg?t=1646762112"
+    },
+    {
+        "title": "Tom Clancy's Splinter Cell",
+        "metacriticLink": "/game/pc/tom-clancys-splinter-cell",
+        "normalPrice": "9.99",
+        "steamAppID": "13560",
+        "thumb": "https://cdn.cloudflare.steamstatic.com/steam/apps/13560/capsule_sm_120.jpg?t=1680011054"
+    },
+    {
+        "title": "The Longest Journey",
+        "metacriticLink": "/game/pc/the-longest-journey",
+        "normalPrice": "9.99",
+        "steamAppID": "6310",
+        "thumb": "https://cdn.cloudflare.steamstatic.com/steam/apps/6310/capsule_sm_120.jpg?t=1675333329"
+    },
+    {
+        "title": "Dishonored",
+        "metacriticLink": "/game/pc/dishonored",
+        "normalPrice": "9.99",
+        "steamAppID": "205100",
+        "thumb": "https://cdn.cloudflare.steamstatic.com/steam/apps/205100/capsule_sm_120.jpg?t=1681845707"
+    },
+    {
+        "title": "FEZ",
+        "metacriticLink": "/game/pc/fez",
+        "normalPrice": "9.99",
+        "steamAppID": "224760",
+        "thumb": "https://cdn.cloudflare.steamstatic.com/steam/apps/224760/capsule_sm_120.jpg?t=1572375251"
+    },
+    {
+        "title": "Deus Ex: Human Revolution - Director's Cut",
+        "metacriticLink": "/game/pc/deus-ex-human-revolution---directors-cut",
+        "normalPrice": "19.99",
+        "steamAppID": "238010",
+        "thumb": "https://cdn.cloudflare.steamstatic.com/steam/apps/238010/capsule_sm_120.jpg?t=1681397569"
+    },
+    {
+        "title": "Dark Souls II",
+        "metacriticLink": "/game/pc/dark-souls-ii",
+        "normalPrice": "39.99",
+        "steamAppID": "236430",
+        "thumb": "https://cdn.cloudflare.steamstatic.com/steam/apps/236430/capsule_sm_120.jpg?t=1669850633"
+    },
+    {
+        "title": "Freespace 2",
+        "metacriticLink": "/game/pc/freespace-2",
+        "normalPrice": "9.99",
+        "steamAppID": "273620",
+        "thumb": "https://cdn.cloudflare.steamstatic.com/steam/apps/273620/capsule_sm_120.jpg?t=1668561070"
+    },
+    {
+        "title": "Metal Gear Solid V: The Phantom Pain",
+        "metacriticLink": "/game/pc/metal-gear-solid-v-the-phantom-pain",
+        "normalPrice": "19.99",
+        "steamAppID": "287700",
+        "thumb": "https://cdn.cloudflare.steamstatic.com/steam/apps/287700/capsule_sm_120.jpg?t=1667801931"
+    },
+    {
+        "title": "Tumblestone",
+        "metacriticLink": "/game/pc/tumblestone",
+        "normalPrice": "24.99",
+        "steamAppID": "269710",
+        "thumb": "https://cdn.cloudflare.steamstatic.com/steam/apps/269710/capsule_sm_120.jpg?t=1673726244"
+    },
+    {
+        "title": "Crusader Kings III",
+        "metacriticLink": "/game/pc/crusader-kings-iii",
+        "normalPrice": "49.99",
+        "steamAppID": "1158310",
+        "thumb": "https://cdn.cloudflare.steamstatic.com/steam/apps/1158310/capsule_sm_120.jpg?t=1686841394"
+    },
+    {
+        "title": "Spelunky 2",
+        "metacriticLink": "/game/pc/spelunky-2",
+        "normalPrice": "19.99",
+        "steamAppID": "418530",
+        "thumb": "https://cdn.cloudflare.steamstatic.com/steam/apps/418530/capsule_sm_120.jpg?t=1663719294"
+    },
+    {
+        "title": "Mortal Kombat 11 Ultimate",
+        "metacriticLink": "/game/pc/mortal-kombat-11-ultimate",
+        "normalPrice": "59.99",
+        "steamAppID": "518699",
+        "thumb": "https://cdn.cloudflare.steamstatic.com/steam/subs/518699/capsule_sm_120.jpg?t=1606759785"
+    },
+    {
+        "title": "Forza Horizon 5",
+        "metacriticLink": "/game/pc/forza-horizon-5",
+        "normalPrice": "59.99",
+        "steamAppID": "1551360",
+        "thumb": "https://cdn.cloudflare.steamstatic.com/steam/apps/1551360/capsule_sm_120.jpg?t=1683059745"
+    },
+    {
+        "title": "I Was a Teenage Exocolonist",
+        "metacriticLink": "/game/pc/i-was-a-teenage-exocolonist",
+        "normalPrice": "24.99",
+        "steamAppID": "1148760",
+        "thumb": "https://cdn.cloudflare.steamstatic.com/steam/apps/1148760/capsule_sm_120.jpg?t=1684873333"
+    },
+    {
+        "title": "Chained Echoes",
+        "metacriticLink": "/game/pc/chained-echoes",
+        "normalPrice": "24.99",
+        "steamAppID": "1229240",
+        "thumb": "https://cdn.cloudflare.steamstatic.com/steam/apps/1229240/capsule_sm_120.jpg?t=1687770124"
+    },
+    {
+        "title": "Total War: SHOGUN 2",
+        "metacriticLink": "/game/pc/total-war-shogun-2",
+        "normalPrice": "29.99",
+        "steamAppID": "201270",
+        "thumb": "https://cdn.cloudflare.steamstatic.com/steam/apps/201270/capsule_sm_120.jpg?t=1603131194"
+    },
+    {
+        "title": "Sid Meier's Civilization V",
+        "metacriticLink": "/game/pc/sid-meiers-civilization-v",
+        "normalPrice": "29.99",
+        "steamAppID": "8930",
+        "thumb": "https://cdn.cloudflare.steamstatic.com/steam/apps/8930/capsule_sm_120.jpg?t=1579731804"
+    },
+    {
+        "title": "Half-Life 2: Episode Two",
+        "metacriticLink": "/game/pc/half-life-2-episode-two",
+        "normalPrice": "7.99",
+        "steamAppID": "420",
+        "thumb": "https://cdn.cloudflare.steamstatic.com/steam/apps/420/capsule_sm_120.jpg?t=1666824206"
+    },
+    {
+        "title": "Portal",
+        "metacriticLink": "/game/pc/portal",
+        "normalPrice": "9.99",
+        "steamAppID": "400",
+        "thumb": "https://cdn.cloudflare.steamstatic.com/steam/apps/400/capsule_sm_120.jpg?t=1682715069"
+    },
+    {
+        "title": "Braid",
+        "metacriticLink": "/game/pc/braid",
+        "normalPrice": "14.99",
+        "steamAppID": "26800",
+        "thumb": "https://cdn.cloudflare.steamstatic.com/steam/apps/26800/capsule_sm_120.jpg?t=1515716884"
+    },
+    {
+        "title": "World of Goo",
+        "metacriticLink": "/game/pc/world-of-goo",
+        "normalPrice": "14.99",
+        "steamAppID": "22000",
+        "thumb": "https://cdn.cloudflare.steamstatic.com/steam/apps/22000/capsule_sm_120.jpg?t=1587578439"
+    },
+    {
+        "title": "Silent Hunter III",
+        "metacriticLink": "/game/pc/silent-hunter-iii",
+        "normalPrice": "9.99",
+        "steamAppID": "15210",
+        "thumb": "https://cdn.cloudflare.steamstatic.com/steam/apps/15210/capsule_sm_120.jpg?t=1680013272"
+    },
+    {
+        "title": "Freedom Force",
+        "metacriticLink": "/game/pc/freedom-force",
+        "normalPrice": "4.99",
+        "steamAppID": "8880",
+        "thumb": "https://cdn.cloudflare.steamstatic.com/steam/apps/8880/capsule_sm_120.jpg?t=1569012854"
+    },
+    {
+        "title": "Spelunky",
+        "metacriticLink": "/game/pc/spelunky",
+        "normalPrice": "14.99",
+        "steamAppID": "239350",
+        "thumb": "https://cdn.cloudflare.steamstatic.com/steam/apps/239350/capsule_sm_120.jpg?t=1632912566"
+    },
+    {
+        "title": "Brothers: A Tale of Two Sons",
+        "metacriticLink": "/game/pc/brothers-a-tale-of-two-sons",
+        "normalPrice": "14.99",
+        "steamAppID": "225080",
+        "thumb": "https://cdn.cloudflare.steamstatic.com/steam/apps/225080/capsule_sm_120.jpg?t=1669134695"
+    },
+    {
+        "title": "Metro 2033 Redux",
+        "metacriticLink": "/game/pc/metro-2033-redux",
+        "normalPrice": "19.99",
+        "steamAppID": "286690",
+        "thumb": "https://cdn.cloudflare.steamstatic.com/steam/apps/286690/capsule_sm_120.jpg?t=1669390794"
+    },
+    {
+        "title": "Factorio",
+        "metacriticLink": "/game/pc/factorio",
+        "normalPrice": "35.00",
+        "steamAppID": "427520",
+        "thumb": "https://cdn.cloudflare.steamstatic.com/steam/apps/427520/capsule_sm_120.jpg?t=1664264081"
+    },
+    {
+        "title": "Stephen's Sausage Roll",
+        "metacriticLink": "/game/pc/stephens-sausage-roll",
+        "normalPrice": "29.99",
+        "steamAppID": "353540",
+        "thumb": "https://cdn.cloudflare.steamstatic.com/steam/apps/353540/capsule_sm_120.jpg?t=1589230122"
+    },
+    {
+        "title": "Tadpole Treble",
+        "metacriticLink": "/game/pc/tadpole-treble",
+        "normalPrice": "4.99",
+        "steamAppID": "354400",
+        "thumb": "https://cdn.cloudflare.steamstatic.com/steam/apps/354400/capsule_sm_120.jpg?t=1473703105"
+    },
+    {
+        "title": "Linelight",
+        "metacriticLink": "/game/pc/linelight",
+        "normalPrice": "9.99",
+        "steamAppID": "469790",
+        "thumb": "https://cdn.cloudflare.steamstatic.com/steam/apps/469790/capsule_sm_120.jpg?t=1593859494"
+    }
+]
